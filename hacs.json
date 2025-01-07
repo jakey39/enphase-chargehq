@@ -1,0 +1,9 @@
+
+{
+  "name": "Enphase-ChargeHQ Integration",
+  "content_in_root": false,
+  "domains": ["energy", "automation"],
+  "country": ["US", "AU"],
+  "iot_class": "Local Polling",
+  "homeassistant": "2021.1.0"
+}

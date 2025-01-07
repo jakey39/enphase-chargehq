@@ -1,0 +1,17 @@
+
+{
+  "title": "Enphase-ChargeHQ Integration",
+  "options": {
+    "step": {
+      "user": {
+        "description": "Set up your Enphase-ChargeHQ integration.",
+        "data": {
+          "chargehq_api_key": "ChargeHQ API Key",
+          "envoy_access_token": "Envoy Access Token",
+          "envoy_local_ip": "Envoy Local IP",
+          "poll_interval": "Polling Interval (seconds)"
+        }
+      }
+    }
+  }
+}

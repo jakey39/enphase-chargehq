@@ -1,0 +1,11 @@
+
+{
+  "domain": "enphase_chargehq",
+  "name": "Enphase-ChargeHQ Integration",
+  "version": "1.0.0",
+  "documentation": "https://github.com/jakey39/enphase_chargehq",
+  "dependencies": [],
+  "codeowners": ["@jakey39"],
+  "iot_class": "local_polling",
+  "requirements": ["requests", "urllib3"]
+}
