@@ -1,4 +1,3 @@
-
 # Enphase-ChargeHQ Home Assistant Integration
 
 This is a custom integration for Home Assistant to integrate ChargeHQ with Enphase Envoy data.
