@@ -1,1 +1,10 @@
-// Placeholder for manifest.json
+{
+  "domain": "chargehq",
+  "name": "ChargeHQ Integration",
+  "version": "1.0.0",
+  "documentation": "https://github.com/yourusername/chargehq-homeassistant",
+  "dependencies": [],
+  "codeowners": ["@yourusername"],
+  "iot_class": "local_polling",
+  "requirements": ["requests", "urllib3"]
+}
