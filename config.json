@@ -1,0 +1,11 @@
+{
+  "name": "Enphase-ChargeHQ Add-on",
+  "version": "1.0.0",
+  "slug": "enphase_chargehq",
+  "description": "A custom add-on for Enphase-ChargeHQ integration.",
+  "startup": "application",
+  "boot": "auto",
+  "ports": {
+    "8123/tcp": 8123
+  }
+}
